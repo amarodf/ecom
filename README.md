@@ -1,4 +1,4 @@
-# Protótipo de um e-commerce
+# E-commerce
 <strong>Backend</strong>: REST API feita com Express.js, banco de dados MongoDB utilizando o Mongoose.</br>
 <strong>Frontend (web)</strong>: Feita com React.js e Redux.</br>
 
